@@ -10,7 +10,7 @@ This project aims to count the number of passengers entering and exiting buses u
 
 ## Structure
 
-/ (root)
+```
 │
 ├── README.md                → Project overview, setup, how to run
 ├── .gitignore               → Ignored files (e.g., __pycache__, .env)
@@ -40,7 +40,7 @@ This project aims to count the number of passengers entering and exiting buses u
 └── /docs/                   → Documentation
     ├── Bus Passenger Counting System Proposal Report.pdf     → Project Proposal Document
     └── City Bus Research Proposal Presentation.pdf           → Project Proposal Slide Presentation
-
+```
 
 ## 🔧 Tech Stack
 - Python
