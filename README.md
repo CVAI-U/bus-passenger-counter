@@ -8,13 +8,6 @@ This project aims to count the number of passengers entering and exiting buses u
 - Avoid double-counting by smart merging strategies.
 - Output total passenger counts per trip.
 
-## 📁 Project Structure
-- `src/`: Source code for preprocessing, detection, tracking, and counting.
-- `models/`: Pretrained or trained models used for detection/tracking.
-- `notebooks/`: Experimentation and model tuning notebooks.
-- `data/`: Sample video frames or test data.
-- `requirements.txt`: Python dependencies.
-
 ## 🔧 Tech Stack
 - Python
 - OpenCV
