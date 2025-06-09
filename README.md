@@ -54,7 +54,3 @@ This project aims to count the number of passengers entering and exiting buses u
 git clone https://github.com/CVAIC/bus-passenger-counter.git
 cd bus-passenger-counter
 pip install -r requirements.txt
-
-
-
-hello
