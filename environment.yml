@@ -1,0 +1,18 @@
+name: citybus-env  # (This name is optional when installing into an existing env)
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy<1.25
+  - matplotlib
+  - opencv
+  - pip
+  - jupyter
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - pip:
+      - ultralytics
+      - scikit-learn
+      - tqdm

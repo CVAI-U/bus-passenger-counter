@@ -1,0 +1,10 @@
+ultralytics
+numpy<1.25
+opencv-python
+matplotlib
+scikit-learn
+tqdm
+notebook
+jupyter
+ipykernel
+ipywidgets
